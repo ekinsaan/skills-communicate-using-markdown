@@ -5,6 +5,11 @@
 ##### An H5 Header
 ###### An H6 Header
 
+- [ ] Here's a task
+- [ ] another one
+- [ ] is this a task?
+- [x] that's a complete task
+
 ```python
 if a == 2:
   print("a is 2")
@@ -18,4 +23,5 @@ if a == 2 then
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Added some Header stuff
+
 
